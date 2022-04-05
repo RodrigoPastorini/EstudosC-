@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\RiderProjects\AulasDescomplica\AulasDescomplica\bin\Debug\AulasDescomplica.exe
+C:\Users\Rodrigo\RiderProjects\AulasDescomplica\AulasDescomplica\bin\Debug\AulasDescomplica.pdb
+C:\Users\Rodrigo\RiderProjects\AulasDescomplica\AulasDescomplica\obj\Debug\AulasDescomplica.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\RiderProjects\AulasDescomplica\AulasDescomplica\obj\Debug\AulasDescomplica.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\RiderProjects\AulasDescomplica\AulasDescomplica\obj\Debug\AulasDescomplica.exe
+C:\Users\Rodrigo\RiderProjects\AulasDescomplica\AulasDescomplica\obj\Debug\AulasDescomplica.pdb
